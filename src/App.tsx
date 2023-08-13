@@ -9,3 +9,7 @@ function App() {
 }
 
 export default App;
+
+// Lodash, typescript, scss, style-in-component, ++++
+
+// Plans : interactive game, shopping web, data-center web, football web
