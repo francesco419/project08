@@ -10,6 +10,12 @@ function App() {
 
 export default App;
 
-// Lodash, typescript, scss, style-in-component, ++++
+// Skills : Lodash, typescript, scss, style-in-component, ++++
 
-// Plans : interactive game, shopping web, data-center web, football web
+// Front + Back(if needed)
+
+// Plans : interactive game, shopping web, data-center web, football web, Show-ups
+
+// Design : pinterest
+
+//
