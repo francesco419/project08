@@ -14,8 +14,8 @@ export default App;
 
 // Front + Back(if needed)
 
-// Plans : interactive game, shopping web, data-center web, football web, Show-ups
+// Plans : shopping web, data-center web, football web, Show-ups
 
 // Design : pinterest
 
-//
+// Time : 2-3week
