@@ -19,3 +19,5 @@ export default App;
 // Design : pinterest
 
 // Time : 2-3week
+
+// team considered
