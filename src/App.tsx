@@ -21,3 +21,5 @@ export default App;
 // Time : 2-3week
 
 // team considered
+
+// Chap gpt API used
