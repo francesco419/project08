@@ -23,3 +23,5 @@ export default App;
 // team considered
 
 // Chap gpt API used
+
+// design pinterest
