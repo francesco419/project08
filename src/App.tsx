@@ -25,3 +25,5 @@ export default App;
 // Chap gpt API used
 
 // design pinterest
+
+// tour web page / about korea / using map API(naver / kakao) / with selling items / admin can add or del contents by using tour API / bus and sub will be using
