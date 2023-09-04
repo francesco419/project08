@@ -26,4 +26,12 @@ export default App;
 
 // design pinterest
 
-// tour web page / about korea / using map API(naver / kakao) / with selling items / admin can add or del contents by using tour API / bus and sub will be using
+// Option 1
+
+// tour web page / about korea / using map API(naver / kakao) / with selling items / admin can add or del contents by using tour API / bus and sub will be usingvmfkscltmzh!419
+
+//-----------------------------------------
+
+// Option 2
+
+// API-Football - Restful API for Football data
